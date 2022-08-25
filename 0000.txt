@@ -1,0 +1,19 @@
+Name: AFRAZ ALAM
+ID: 0000
+Age: 21
+Email: AF@
+Address: 11
+Department: CS
+CGPA: 3.5
+Cleared Credits: 11
+
+Subjects                                        Credit hours                           GPA
+
+OOP                                                        3                             3
+******************************
+DLD                                                        3                             3
+******************************
+CPS                                                        2                             4
+******************************
+PST                                                        3                             4
+******************************

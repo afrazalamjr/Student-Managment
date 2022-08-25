@@ -1,0 +1,8 @@
+Name: ALAM 
+ID: 0001
+Age: 31
+Email: AS@
+Address: 23E
+Taught Subject: OOP
+Years employed: 10
+Salary: 2e+006

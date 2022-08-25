@@ -1,0 +1,8 @@
+Name: DANISH
+ID: 0011
+Age: 41
+Email: EC@
+Address: 2R3
+Taught Role in management: Finance
+Years employed: 19
+Salary: 3e+007

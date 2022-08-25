@@ -1,0 +1,15 @@
+Name: AFRAZ
+ID: 2222
+Age: 21
+Email: 34WWR
+Address: ERR54
+Department: CS
+CGPA: 3
+Cleared Credits: 6
+
+Subjects                                        Credit hours                           GPA
+
+OOP                                                        3                             3
+******************************
+DLD                                                        3                             3
+******************************
